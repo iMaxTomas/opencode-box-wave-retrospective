@@ -171,6 +171,46 @@ worktree 不是默认加速器。
 
 这层不该和方法层混。
 
+## 当前推荐结构
+
+```text
+openspec
+├── config.yaml
+├── specs/
+├── methods/
+│   ├── README.md
+│   ├── experience-notes.md
+│   └── heavy-task-template.md
+└── changes/
+    └── <change>/
+        ├── proposal.md
+        ├── design.md
+        ├── tasks.md
+        ├── campaign.md
+        ├── execution-waves.md
+        ├── phase-*.md
+        ├── diagnostic-*.md
+        ├── handoff-*.md
+        └── wave-*.md
+
+config
+├── README.md
+├── codex/
+├── ko/
+└── daks/
+```
+
+这一版的意思是：
+
+- `openspec/config.yaml`
+  - 继续保持薄底座
+- `openspec/methods/`
+  - 放经验、模板、方法
+- `openspec/changes/<change>/`
+  - 放当前任务卡和当前情报
+- `config/`
+  - 放真实配置真相源
+
 ## 那 5 条经验后来怎么重新定位
 
 后来发现，这 5 条虽然很有用，但不该被误抬成“全局核心规则”：
