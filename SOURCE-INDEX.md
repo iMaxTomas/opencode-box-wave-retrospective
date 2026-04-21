@@ -51,6 +51,7 @@
 
 - `governed-session-template.md`
 - `current-codex-config-reentry-card.md`
+- `strategy-card-phased-upgrade-checkpoints-and-handoff-20260421.md`
 - `vm103-recallnest-heavy-repair-strategy-20260420.md`
 - `strategy-card2-upgrade-retrospective-20260421.md`
 
@@ -60,6 +61,7 @@
 - 而是直接看：
   - 战略卡模板原文
   - 当前治理 re-entry 卡原文
+  - 分阶段升级的 checkpoint / handoff 协议
   - 一份完整重任务战略卡实例原文
   - 一份战略卡2升级复盘与分阶段升级树
 
