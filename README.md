@@ -177,6 +177,7 @@
 - [TIMELINE.md](./TIMELINE.md): 事情经过
 - [FRAMEWORK.md](./FRAMEWORK.md): 之后可复用的长任务编排方法
 - [SOURCE-INDEX.md](./SOURCE-INDEX.md): 这次补进去的结构 / 配置 / 战略卡源文件索引
+- [strategy-card2-upgrade-retrospective-20260421.md](./docs/source/strategy-examples/strategy-card2-upgrade-retrospective-20260421.md): 战略卡2升级复盘、当前薄弱点、分阶段升级树、`RecallNest H1-H4` 主样本反思
 
 ## 当前公开内容
 

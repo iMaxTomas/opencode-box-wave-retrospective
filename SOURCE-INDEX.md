@@ -52,6 +52,7 @@
 - `governed-session-template.md`
 - `current-codex-config-reentry-card.md`
 - `vm103-recallnest-heavy-repair-strategy-20260420.md`
+- `strategy-card2-upgrade-retrospective-20260421.md`
 
 作用：
 
@@ -60,6 +61,7 @@
   - 战略卡模板原文
   - 当前治理 re-entry 卡原文
   - 一份完整重任务战略卡实例原文
+  - 一份战略卡2升级复盘与分阶段升级树
 
 一句话：
 
